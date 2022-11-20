@@ -1,6 +1,11 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Mahedi Hasan</h1>
 <h3 align="center">A passionate Competitive Programmer from Bangladesh</h3>
+
+- 🌱 I’m currently learning **Competitive Programming** 
+- 👯 I’m looking to collaborate on **C programming** 
+- 💬 Ask me about **Competitive programming**
+
 <img
   img
   align="right"
@@ -30,9 +35,6 @@
       alt=""
   /></a>
 </p>
-
-- 🌱 I’m currently learning **Competitive Programming** - 👯 I’m looking to
-collaborate on **C programming** - 💬 Ask me about **Competitive programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

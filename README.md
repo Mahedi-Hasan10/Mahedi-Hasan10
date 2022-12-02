@@ -6,9 +6,7 @@
 - 🌱 I’m currently learning **Competitive Programming** 
 - 👯 I’m looking to collaborate on **C programming** 
 - 💬 Ask me about **Competitive programming**
-
 <img
-  img
   align="right"
   alt="Coding"
   width="400"

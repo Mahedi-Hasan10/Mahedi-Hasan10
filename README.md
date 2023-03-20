@@ -3,6 +3,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Competitive-+Programmer,;Software+Engineer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<"></a>
 </p>
 
+- 🌱 I’m currently learning **Data Structure And Algorithm** 
 - 🌱 I’m currently learning **Competitive Programming** 
 - 👯 I’m looking to collaborate on **C++ programming** 
 - 👯 I’m looking to collaborate on **C programming** 

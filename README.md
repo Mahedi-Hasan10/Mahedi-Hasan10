@@ -4,10 +4,8 @@
 </p>
 
 - 🌱 I’m currently learning **Data Structure And Algorithm** 
-- 🌱 I’m currently learning **Competitive Programming** 
 - 👯 I’m looking to collaborate on **C++ programming** 
-- 👯 I’m looking to collaborate on **C programming** 
-- 💬 Ask me about **Competitive programming**
+- 💬 Ask me about **Software Engineering**
 <img
   align="right"
   alt="Coding"

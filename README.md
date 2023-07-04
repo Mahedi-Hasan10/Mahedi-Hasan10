@@ -3,8 +3,9 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Competitive-+Programmer,;Software+Engineer,;Computer+Science+Student,;CodeForces+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<"></a>
 </p>
 
-- 🌱 I’m currently learning **OOP using Python** 
+- 🌱 I’m currently learning **MySQL** 
 - 👯 I’m looking to collaborate on **Data Structure And Algorithm**
+- 👯 I’m looking to collaborate on **OOP using Python**
 - 👯 I’m looking to collaborate on **C++ programming** 
 - 💬 Ask me about **Software Engineering**
 <img
@@ -66,10 +67,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-      alt="arduino"
+      src="https://images.app.goo.gl/2CAYfcQAqK5UnaLv6"
+      alt="python"
       width="40"
       height="40"
     />

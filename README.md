@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **C++ programming** 
 - 💬 Ask me about **Software Engineering**
 <img
-  align="left"
+  align="right"
   alt="Coding"
   width="400"
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"

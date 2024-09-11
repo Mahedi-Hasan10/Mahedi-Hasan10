@@ -69,20 +69,148 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<!-- Markdown Header -->
+<h2 align="center" style="color: #e2e2e2;">Technologies & Tools I Use</h2>
+
+<!-- Icons Container -->
+<p align="center">
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- TailwindCSS -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Ant-Design -->
+  <a href="https://ant.design/" target="_blank" rel="noreferrer">
+    <img src="https://ant.design/images/logo.svg" alt="Ant-Design" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Chart.js -->
+  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- SASS -->
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="margin: 5px;" />
   </a>
+  <!-- React Router -->
+  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
+    <img src="https://reactrouter.com/favicon.ico" alt="React Router" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Redux -->
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Next JS -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="next.js" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next JS" width="50" height="50" style="margin: 5px;" />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <!-- NPM -->
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50" style="margin: 5px;" />
   </a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongoose" width="40" height="40"/>
+  <!-- Yarn -->
+  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn" width="50" height="50" style="margin: 5px;" />
   </a>
+  <!-- NodeJS -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- JWT -->
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+    <img src="https://jwt.io/img/jwt_logo.png" alt="JWT" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- jQuery -->
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Netlify -->
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Vercel -->
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://vercel.com/_next/static/media/vercel-logotype.4d0f9a7e.svg" alt="Vercel" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://firebase.google.com/images/brand-guidelines/outline-logo.png" alt="Firebase" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Canva -->
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.canva.com/favicon.ico" alt="Canva" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.figma.com/favicon.ico" alt="Figma" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Adobe Lightroom -->
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer">
+    <img src="https://www.adobe.com/content/dam/acom/en/products/photoshop-lightroom/logo-lightroom.svg" alt="Adobe Lightroom" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Babel -->
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original-wordmark.svg" alt="Babel" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- ESLint -->
+  <a href="https://eslint.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg" alt="ESLint" width="50" height="50" style="margin: 5px;" />
+  </a>
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.postman.com/favicon.ico" alt="Postman" width="50" height="50" style="margin: 5px;" />
+  </a>
+</p>
+
+<!-- Description -->
+<p align="center" style="color: #e2e2e2; margin-top: 20px;">
+  <strong>Tech Stack:</strong> JavaScript, TypeScript, C, Python, Java, HTML5, CSS3, Bootstrap, TailwindCSS, Ant-Design, Chart.js, SASS, React, React Router, Redux, Next.js, NPM, Yarn, Node.js, Express.js, JWT, jQuery, Netlify, Vercel, Firebase, MongoDB, MySQL, Canva, Figma, Adobe Lightroom, Babel, ESLint, Postman.
 </p>
 <p>
   <img

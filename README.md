@@ -138,43 +138,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"
             width="50" height="50" style="margin: 5px;" />
     </a>
-
-    <!-- NPM -->
-    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
-            alt="NPM" width="50" height="50" style="margin: 5px;" />
-    </a>
-    <!-- Yarn -->
-    <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg"
-            alt="Yarn" width="50" height="50" style="margin: 5px;" />
-    </a>
-    <!-- NodeJS -->
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="NodeJS" width="50" height="50" style="margin: 5px;" />
-    </a>
-
-    <!-- jQuery -->
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
-            alt="jQuery" width="50" height="50" style="margin: 5px;" />
-    </a>
-    <!-- Netlify -->
-    <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="50" height="50"
-            style="margin: 5px;" />
-    </a>
-
-    <!-- Canva -->
-    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.canva.com/favicon.ico" alt="Canva" width="50" height="50" style="margin: 5px;" />
-    </a>
-    <!-- ESLint -->
-    <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg"
-            alt="ESLint" width="50" height="50" style="margin: 5px;" />
-    </a>
 </p>
 
 <!-- Description -->

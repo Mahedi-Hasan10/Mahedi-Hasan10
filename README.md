@@ -34,9 +34,12 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahedi-hasan10&show_icons=true&locale=en" alt="Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahedi-hasan10" alt="Streak" />
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mahedi-hasan10&theme=radical&hide_border=true" alt="mahedi-hasan10 Streak" />
 </p>
+
 
 ---
 

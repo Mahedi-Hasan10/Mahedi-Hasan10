@@ -36,9 +36,7 @@
 
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mahedi-hasan10&theme=radical&hide_border=true" alt="mahedi-hasan10 Streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahedi-hasan10&theme=dark)](https://git.io/streak-stats)
 
 
 ---

@@ -10,15 +10,15 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently learning **Cloud Computing** & **React/Next.js**
+- 🌱 Currently learning **AI/ML**
 - 👨‍💻 Passionate about **Software Engineering**
 - 💬 Ask me about anything related to **MERN Stack, DSA, Django, MySQL, OOP**
 - 🤝 Open to collaborate on:
-  - Data Structures and Algorithms
-  - MySQL Projects
-  - Django & Python-based systems
-  - C++ Programming
-- 🧠 Always eager to learn new technologies
+  - **MERN Stack** projects (MongoDB, Express.js, React.js, Node.js)
+  - **Next.js**, **Remix.js**, and **NestJS** applications
+  - **Backend API development** using Express/NestJS
+  - **Full-stack applications** using React or Next.js
+  - **Database management** with MongoDB or MySQL
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -47,6 +47,7 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40"/></a>
   <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="Next.js" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express.js" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" title="NestJS" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="40"/></a>
@@ -68,7 +69,7 @@
 ### 🧰 Other Tools & Platforms
 
 `JavaScript`, `TypeScript`, `C`, `Python`, `Java`, `HTML5`, `CSS3`, `Bootstrap`, `TailwindCSS`,  
-`Ant Design`, `Chart.js`, `SASS`, `React`, `Redux`, `Next.js`, `Node.js`, `Express.js`, `JWT`,  
+`Ant Design`, `Chart.js`, `SASS`, `React`, `Redux`, `Next.js`, `Remix.js`, `NestJS`, `Node.js`, `Express.js`, `JWT`,  
 `MongoDB`, `MySQL`, `Firebase`, `Netlify`, `Vercel`, `Figma`, `Canva`, `Postman`, `jQuery`,  
 `Babel`, `ESLint`, `NPM`, `Yarn`, `Git`, `VS Code`, `Adobe Lightroom`.
 
@@ -98,7 +99,7 @@
   <a href="https://fb.com/s.m.mahadi.188" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" />
   </a>
-  <a href="https://www.hackerrank.com/@hasanmdmahedi193" target="_blank">
+  <a href="https://www.hackerrank.com/hasanmdmahedi193" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30" />
   </a>
   <a href="https://codeforces.com/profile/mahedi_cfs" target="_blank">

@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Competitive+Programmer,;Software+Engineer,;Computer+Science+Student,;CodeForces+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;MERN+Stack+Developer,;Software+Engineer,;Computer+Science+Student,;CodeForces+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..">
   </a>
 </p>
 
@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
+- 👨‍💻 I'm a **MERN Stack Developer** with **2+ years of hands-on experience** building scalable and modern web applications.
 - 🌱 Currently learning **AI/ML**
-- 👨‍💻 Passionate about **Software Engineering**
 - 💬 Ask me about anything related to **MERN Stack, DSA, Django, MySQL, OOP**
 - 🤝 Open to collaborate on:
   - **MERN Stack** projects (MongoDB, Express.js, React.js, Node.js)
@@ -37,7 +37,6 @@
 ### 🔥 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahedi-hasan10&theme=dark)](https://git.io/streak-stats)
-
 
 ---
 

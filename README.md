@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 👨‍💻 I'm a **MERN Stack Developer** with **2+ years of hands-on experience** building scalable and modern web applications.
-- 🌱 Currently learning **AI/ML**
+- 🌱 Currently learning **GEN AI**
 - 💬 Ask me about anything related to **MERN Stack, DSA, Django, MySQL, OOP**
 - 🤝 Open to collaborate on:
   - **MERN Stack** projects (MongoDB, Express.js, React.js, Node.js)

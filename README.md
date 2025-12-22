@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;MERN+Stack+Developer,;Software+Engineer,;Computer+Science+Student,;CodeForces+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Full+Stack+Developer,;Software+Engineer,;Computer+Science+Student,;CodeForces+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..">
   </a>
 </p>
 
@@ -10,11 +10,11 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I'm a **MERN Stack Developer** with **2+ years of hands-on experience** building scalable and modern web applications.
+- 👨‍💻 I'm a **Full Stack Developer** with **2+ years of hands-on experience** building scalable and modern web applications.
 - 🌱 Currently learning **GEN AI**
-- 💬 Ask me about anything related to **MERN Stack, DSA, Django, MySQL, OOP**
+- 💬 Ask me about anything related to **Full Stack, DSA, Django, MySQL, OOP**
 - 🤝 Open to collaborate on:
-  - **MERN Stack** projects (MongoDB, Express.js, React.js, Node.js)
+  - **Full Stack** projects (MongoDB, Express.js, React.js, Node.js)
   - **Next.js**, **Remix.js**, and **NestJS** applications
   - **Backend API development** using Express/NestJS
   - **Full-stack applications** using React or Next.js
